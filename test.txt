@@ -1,1 +1,1 @@
- hello
+MapReduce的实例教程网站：http://eric-gcm.iteye.com/blog/1807468
